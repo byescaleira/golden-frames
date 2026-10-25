@@ -1,0 +1,196 @@
+{
+ "source": "D:/footage/osmo-pocket-3",
+ "music": {
+  "file": "D:/music/track.mp3",
+  "start": 0.0,
+  "end": 45.0,
+  "credit": "Nome da faixa — Artista"
+ },
+ "style": "golden-frames",
+ "metadata": {
+  "title": "5 anos",
+  "show": "5 anos de nós",
+  "artist": "Seu nome",
+  "album": "Memórias",
+  "date": "2026",
+  "genre": "Vlog cinematográfico / Romance",
+  "description": "Vídeo de aniversário de namoro montado só com filmagem real, cortado nas frases da música.",
+  "keywords": "casal, aniversário, vlog cinematográfico, viagem, praia",
+  "copyright": "© 2026 Seu nome. Uso pessoal.",
+  "language": "por"
+ },
+ "titles": {
+  "open": {
+   "number": "5",
+   "caps": "ANOS"
+  },
+  "close": {
+   "caps": "CINCO ANOS",
+   "italic": "de nós."
+  }
+ },
+ "cuts": [
+  0.0,
+  2.97,
+  5.57,
+  8.61,
+  10.73,
+  12.93,
+  15.46,
+  18.39,
+  20.48,
+  22.43,
+  24.64,
+  27.19,
+  29.07,
+  31.58,
+  33.23,
+  35.09,
+  36.25,
+  38.22,
+  40.47,
+  42.91,
+  45.0
+ ],
+ "shots": [
+  {
+   "file": "CLIP_000.MP4",
+   "at": 0.2,
+   "cx": 0.42,
+   "push": true,
+   "note": "plano simbólico (sombras na areia) + título"
+  },
+  {
+   "file": "CLIP_001.MP4",
+   "at": 0.5,
+   "cx": 0.33,
+   "push": true,
+   "note": "rosto sorrindo, luz quente"
+  },
+  {
+   "file": "CLIP_002.MP4",
+   "at": 0.5,
+   "cx": 0.42,
+   "push": true,
+   "note": "selfie dos dois"
+  },
+  {
+   "file": "CLIP_003.MP4",
+   "at": 0.75,
+   "cx": 0.5,
+   "push": true,
+   "note": "os dois rindo"
+  },
+  {
+   "file": "CLIP_004.MP4",
+   "at": 0.55,
+   "cx": 0.5,
+   "push": true,
+   "note": "paisagem: escada para a praia"
+  },
+  {
+   "file": "CLIP_005.MP4",
+   "at": 0.5,
+   "cx": 0.55,
+   "note": "os dois no barco"
+  },
+  {
+   "file": "CLIP_006.MP4",
+   "at": 0.5,
+   "cx": 0.6,
+   "note": "paisagem: mar e pedra"
+  },
+  {
+   "file": "CLIP_007.MP4",
+   "at": 0.5,
+   "cx": 0.45,
+   "zoom": 1.25,
+   "cy": 0.4,
+   "note": "olhar entre os dois"
+  },
+  {
+   "file": "CLIP_008.MP4",
+   "at": 0.8,
+   "cx": 0.4,
+   "note": "ela sorrindo"
+  },
+  {
+   "file": "CLIP_009.MP4",
+   "at": 0.5,
+   "cx": 0.5,
+   "zoom": 2.2,
+   "cy": 0.36,
+   "note": "contraluz no mar ao entardecer",
+   "exp": 0.78
+  },
+  {
+   "file": "CLIP_010.MP4",
+   "at": 0.8,
+   "cx": 0.5,
+   "note": "risada em close"
+  },
+  {
+   "file": "CLIP_011.MP4",
+   "at": 0.5,
+   "cx": 0.5,
+   "note": "vista aérea"
+  },
+  {
+   "file": "CLIP_012.MP4",
+   "at": 0.3,
+   "cx": 0.45,
+   "note": "brinde, noite",
+   "exp": 0.88
+  },
+  {
+   "file": "CLIP_013.MP4",
+   "at": 0.8,
+   "cx": 0.5,
+   "note": "os dois brindando",
+   "exp": 0.88
+  },
+  {
+   "file": "CLIP_014.MP4",
+   "at": 0.2,
+   "cx": 0.7,
+   "note": "sorriso, luz natural"
+  },
+  {
+   "file": "CLIP_015.MP4",
+   "at": 0.5,
+   "cx": 0.48,
+   "zoom": 2.2,
+   "cy": 0.4,
+   "note": "os dois rindo (fechado na cintura)"
+  },
+  {
+   "file": "CLIP_016.MP4",
+   "at": 0.5,
+   "cx": 0.62,
+   "note": "noite, luzes ao fundo",
+   "exp": 0.85
+  },
+  {
+   "file": "CLIP_017.MP4",
+   "at": 0.85,
+   "cx": 0.6,
+   "note": "selfie na praia"
+  },
+  {
+   "file": "CLIP_018.MP4",
+   "at": 0.85,
+   "cx": 0.4,
+   "zoom": 1.3,
+   "cy": 0.4,
+   "note": "selfie no barco"
+  },
+  {
+   "file": "CLIP_019.MP4",
+   "at": 0.8,
+   "cx": 0.55,
+   "zoom": 1.25,
+   "cy": 0.38,
+   "note": "selfie final + título"
+  }
+ ]
+}

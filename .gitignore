@@ -1,0 +1,25 @@
+# generated per project
+projects/*/work/
+projects/*/*.mp4
+projects/*/*.mov
+
+# media never goes in the repo
+*.mp4
+*.mov
+*.MP4
+*.MOV
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.mpeg
+
+# reference profiles keep numbers only; frame sheets are copyrighted stills
+styles/refs/*.frames.jpg
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
